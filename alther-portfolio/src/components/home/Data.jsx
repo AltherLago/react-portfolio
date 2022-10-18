@@ -2,7 +2,7 @@ import React from 'react'
 
 const Data = () => {
     return (
-        <div class="home__data">
+        <div className="home__data">
             <h1 className="home__title">Alther Lago
 
             <svg
@@ -57,7 +57,7 @@ const Data = () => {
 
             </h1>
             <h3 className="home__subtitle">Web Developer</h3>
-            <p className="home__description">Sou um proativo desenvolvedor residente em Maceió.</p>
+            <p className="home__description">Sou um proativo desenvolvedor residente em Maceió, e muito dedicado ao meu trabalho.</p>
 
             <a className="button button--flex" href="#contact">
                 Dê um oi
