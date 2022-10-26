@@ -41,7 +41,7 @@ const Portfolio = () => {
                         <SwiperSlide className="portfolio__card" key={id}>
                             <img src={image} alt="i"
                             className='portfolio__img'/>
-                        {/*TODO link for project*/}
+                        {/*TODO link for project && gif*/}
                             <h3 class="portfolio__name">{title}</h3>
                         </SwiperSlide>
                     )
